@@ -1,0 +1,6 @@
+{
+  "name": "Amir IELTS Master",
+  "description": "Offline-first English learning & IELTS preparation platform by Amir featuring AI conversation coach, cue-card speaking laboratory, full mock tests, grammar, and vocabulary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

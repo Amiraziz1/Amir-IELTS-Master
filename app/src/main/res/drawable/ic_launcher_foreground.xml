@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Open Book Base in Center Safe Zone (21-87) -->
+    <!-- Left page -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M 52,52 L 32,45 C 30,44.5 28,46 28,48 L 28,74 C 28,75 29,76 30,76.5 L 52,82 Z" />
+    <!-- Right page -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M 56,52 L 76,45 C 78,44.5 80,46 80,48 L 80,74 C 80,75 79,76 78,76.5 L 56,82 Z" />
+    
+    <!-- Book lines on left page -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M 33,52 L 48,56 L 48,58 L 33,54 Z M 33,60 L 48,64 L 48,66 L 33,62 Z M 33,68 L 45,71 L 45,73 L 33,70 Z" />
+    <!-- Book lines on right page -->
+    <path
+        android:fillColor="#64748B"
+        android:pathData="M 75,52 L 60,56 L 60,58 L 75,54 Z M 75,60 L 60,64 L 60,66 L 75,62 Z M 75,68 L 63,71 L 63,73 L 75,70 Z" />
+    
+    <!-- Graduation Mortarboard Cap hovering above book -->
+    <!-- Cap top diamond -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M 54,26 L 76,34 L 54,42 L 32,34 Z" />
+    <!-- Cap skull cap base -->
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M 43,39 L 43,45 C 43,48 48,50 54,50 C 60,50 65,48 65,45 L 65,39 L 54,42.5 Z" />
+    <!-- Tassel -->
+    <path
+        android:fillColor="#FEF3C7"
+        android:strokeColor="#FEF3C7"
+        android:strokeWidth="1.5"
+        android:pathData="M 54,34 L 72,40 L 73,48" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M 71,48 L 75,48 L 74,52 L 72,52 Z" />
+        
+    <!-- Golden Star Emblem on Book Spine -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M 54,63 L 55.5,66.5 L 59.5,67 L 56.5,69.5 L 57.5,73.5 L 54,71.5 L 50.5,73.5 L 51.5,69.5 L 48.5,67 L 52.5,66.5 Z" />
+</vector>
